@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @mak-simgithub
-- 📫 lsomm@hotmail.com
+- Hi, I’m mak-sim
+- mail@mak-sim.ch
